@@ -464,3 +464,4 @@ OpenCover/
 junit/
 
 *.csv
+*.pkl
